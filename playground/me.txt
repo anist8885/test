@@ -1,0 +1,5 @@
+{{#user}
+Name: Anees Tadvi 
+Skills: Python, Automation Testing, Manual Testing, SQL,Jira, Jenkins,Selenium.
+Email: aneestadvi922@gmail.com
+{{/user}}
